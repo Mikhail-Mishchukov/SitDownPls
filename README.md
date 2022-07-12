@@ -13,6 +13,7 @@ The layout was in Figma.
   - Contacts page.
   - Cooperation page.
   - Product page. 
+
 Main page will open automatically, also if click logo you will be on Main page. To go to the contact page need find footer and click button "Контакты". In footer if click on button "Поставщикам" you will be on Cooperation page. On main page find section "Топ категории" and if click on button "В каталог", will be open catalog page. To go to the product page, you need to find the "Высокий рейтинг" section on the main page and click on the name of the sofa "Fabric sofa “D-31”".
   
   ![image](https://user-images.githubusercontent.com/109067893/178539519-48840996-c003-458b-b796-eb216479a102.png)
